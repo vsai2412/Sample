@@ -1,0 +1,1 @@
+require(["Sample/Test Plans/plan1"]);

@@ -1,0 +1,23 @@
+{
+    "AS_Button_h3f66f06a12342e9b24abbb78dcaf0fb": {
+        "id": "AS_Button_h3f66f06a12342e9b24abbb78dcaf0fb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fb6e88e7d7c94c68aa13478d43b174b5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_fbe05a1eaa8442e99fce8152bab62735",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// var widList = _getWidgetsByFilter([\"Sample/Home\"],\n//     [\n       \n//         { property : \"isVisible\", value : true  }, \n//     \t{ property : \"zIndex\", value : 1 , searchCriteria : kony.automation.SEARCH_CRITERIA_EQUAL}\n//     ]\n                                                       \n//   );\n// kony.print(widList);\n\n\nvar filter= {  searchInput: \"CustomButton\"};\nvar searchableWidgetIDS=[\"btn1\"];\nvar result=searchTextInSegment([\"Form1\",\"segment\"], filter,searchableWidgetIDS);\n",
+            "parentId": null
+        }]
+    }
+}

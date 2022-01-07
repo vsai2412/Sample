@@ -1,0 +1,88 @@
+{
+    "testCaseName": "sample1",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Home.Button0ha6573092c2643",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "ea2b0d71-728e-ee02-e596-b2495014d000",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "Home.Button0ha6573092c2643"
+                    },
+                    "appName": "Sample"
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Home.Button0ha6573092c2643",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "Home.Button0ha6573092c2643",
+                    "widgetType": "button",
+                    "actionType": "click",
+                    "appName": "Sample"
+                },
+                "UUID": "d4e31972-34c1-4c69-9447-9c6ad47a05dc"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "Home.Segment0i7a852b234c642[0,1]",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "widgetPath": "Home.Segment0i7a852b234c642[0,1]",
+                    "widgetType": "segmentedui",
+                    "actionType": "click",
+                    "appName": "Sample"
+                },
+                "UUID": "7e3e6bdb-e181-46ad-8bda-2a5dc2dc8537"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "_currentForm": "Sample/Home",
+    "timeout": 0,
+    "dataFileName": "sample1_data",
+    "dataFileVarName": "testcaseData_1638432852214",
+    "datasetName": "dataset",
+    "appName": "Sample",
+    "usedBy": {
+        "Sample": [
+            "Sample1.js"
+        ]
+    }
+}

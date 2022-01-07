@@ -1,0 +1,24 @@
+{
+    "AS_Button_c41488d413cb4487896cb4a1446070a4": {
+        "id": "AS_Button_c41488d413cb4487896cb4a1446070a4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i34bc6ced44244ac8d082049077089a2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_j38efbefbfa64077b45a5512b51ff043",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var widList = _getWidgetsByFilter([\"simpleWidgets\"],\n    [\n       \n        { property : \"isVisible\", value : true  }, \n    \t{ property : \"zIndex\", value : 1 , searchCriteria : kony.automation.SEARCH_CRITERIA_EQUAL}\n    ]\n                                                       \n  );\nkony.print(widList);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

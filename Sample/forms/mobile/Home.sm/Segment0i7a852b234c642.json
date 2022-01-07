@@ -1,0 +1,184 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "9"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "11"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "13"
+            }
+        },
+        {
+            "Label0da2962e62b384c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "14"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "357dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "367dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "013",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "i7fcb322cf8447049f84ca4eaa69f266",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0i7a852b234c642",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g73a2d0fb7d14ddc8dc43eaf2406fc4f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Home",
+    "pf": "Home",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "i7fcb322cf8447049f84ca4eaa69f266",
+    "rowcounter": 13,
+    "rowfocusskin": "se6eac66a2664d2683cb071b3d819cf2",
+    "rowskin": "sde687205f9d48fc808cfee4c9cc9034",
+    "rowtemplate": "FBox0cb88487a184543",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sc76b8efb0c84994a8e04b8dd1bb1cda",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Label0da2962e62b384c": "Label0da2962e62b384c"
+    },
+    "zindex": 1
+}

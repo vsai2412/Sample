@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "Button_Click",
+    "testCaseInfo": [
+        {
+            "testcaseName": "Sample_Button_Click.js",
+            "appName": "Sample",
+            "selectedDataset": "dataset"
+        }
+    ],
+    "appName": "Sample",
+    "usedBy": {
+        "Sample": [
+            "bc.js"
+        ]
+    }
+}

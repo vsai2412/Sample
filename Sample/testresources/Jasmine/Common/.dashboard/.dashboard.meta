@@ -1,0 +1,62 @@
+[
+    {
+        "testName": "Tc1",
+        "appName": "Sample",
+        "result": "jasmineReport07-12-2021_21_08_18.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "07-12-2021 21:08:18",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "Tc1",
+        "appName": "Sample",
+        "result": "jasmineReport07-12-2021_21_03_33.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "07-12-2021 21:03:33",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "Tc1",
+        "appName": "Sample",
+        "result": "jasmineReport07-12-2021_21_02_42.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "07-12-2021 21:02:42",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "Sample1",
+        "appName": "Sample",
+        "result": "jasmineReport02-12-2021_15_35_38.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "02-12-2021 15:35:38",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Mobile",
+        "crashed": false
+    },
+    {
+        "testName": "sample4",
+        "appName": "Sample",
+        "result": "jasmineReport02-12-2021_14_55_48.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "02-12-2021 14:55:48",
+        "runnerType": "TestCaseRecorder",
+        "channelName": "Mobile",
+        "crashed": false
+    }
+]

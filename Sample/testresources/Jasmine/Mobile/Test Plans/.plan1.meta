@@ -1,0 +1,15 @@
+{
+    "groupName": "Test Plans",
+    "testRunnerName": "plan1",
+    "testSuiteInfo": [
+        {
+            "testSuiteName": "Sample1.js",
+            "appName": "Sample"
+        },
+        {
+            "testSuiteName": "suite2.js",
+            "appName": "Sample"
+        }
+    ],
+    "appName": "Sample"
+}
